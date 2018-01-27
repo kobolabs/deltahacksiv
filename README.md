@@ -1,4 +1,4 @@
-<img align="left" src="Kobo400x400.jpg" style="height:200px;width:200px;margin:15px" />
+<img align="left" src="Kobo400x400.jpg" width="200" height="200" style="margin:15px" />
 
 # Welcome Delta Hackers!
 
