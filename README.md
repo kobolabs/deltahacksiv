@@ -6,7 +6,7 @@ If you're curious about the type of work done at Rakuten Kobo, you can peruse th
 
 ## ePub Rendering Components
 
-These pieces of software will actually display an ePub file.
+These pieces of software will actually display an ePub file.  These would be most useful, if you're actually looking to build a reading experience.
 
 NOTE: if you plan on "productizing" your hack after this hackathon, pay close attention to the licensing terms for each of these components.  Not all of them may be suitable for commercial use.
 
@@ -14,19 +14,24 @@ NOTE: if you plan on "productizing" your hack after this hackathon, pay close at
 
 A JavaScript library for viewing ePub files.  You can find instructions for how to use this component on its GitHub page at https://github.com/futurepress/epub.js/
 
+**React ePub Reader**
+
+A ReactJS wrapper for EPub.js.  https://github.com/gerhardsletten/react-reader
+
 **Readium JS CLoud Viewer**
-This is a node.js based component for viewing ePub files.  It is distributed via the NPM package manager.  After installing Node.js and npm, you can install it into your project using 
+This is a node.js based component for viewing ePub files on the web.  It is distributed via the NPM package manager.  After installing Node.js and npm, you can install it into your project using 
 
 `npm install readium-js-dist`
 
-Note that this will only work in the Google Chrome web browser.
+Note that this will only work in the Google Chrome web browser. The source code for this component can be found here:
+
 
 ## ePub Reading Components
 
-These components can open and parse ePub files, but they aren't able to display them.  You can use these libraries to parse an epub file. 
+These components can open and parse ePub files, but they aren't able to display them.  You can use these libraries to read (and sometimes write) ePub files.  You could use these libraries to build tools to author ePub files.  This is probably hard given the time, but if you're up for the challenge, see if you can impress us!
 
 **EPubReader**
 
-A .NET library for reading EPUB files.  If you are familiar with Xamarin development, you could potentially use this component to build an app that targets iOS and Android
-https://github.com/vers-one/EpubReader
+A .NET library for reading EPUB files.  
+https://github.com/vers-one/EpubReader  
 
