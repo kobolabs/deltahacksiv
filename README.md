@@ -1,4 +1,4 @@
-<img align="left" src="Kobo400x400.jpg" style="height:200px;width:200px;margin:15px" />
+<img align="left" src="Kobo400x400.jpg" width-" />
 
 # Welcome Delta Hackers!
 
@@ -20,6 +20,7 @@ NOTE:  Rakuten Kobo does not own any of the listed apis and components.  We've v
 ## Public APIs
 
 **Internet Archive**
+
 Get information about all kinds of freely available books
 
 https://openlibrary.org/developers/api
@@ -29,6 +30,7 @@ https://openlibrary.org/developers/api
 Want to let everyone know what's on the New York Times best seller list? Check out their developer portal. You need to sign up for a key, and it may take an hour or so to get it.  Use this time to use their API explorer to see what data they have to offer!
 
 http://developer.nytimes.com/
+
 http://developer.nytimes.com/books_api.json#/README
 
 
@@ -46,11 +48,14 @@ A JavaScript library for viewing ePub files.  You can find instructions for how 
 
 **React ePub Reader**
 
-A ReactJS wrapper for EPub.js.  https://github.com/gerhardsletten/react-reader
+A ReactJS wrapper for EPub.js. 
+
+ https://github.com/gerhardsletten/react-reader
 
 **Readium SDK**
 
-This is a C++ SDK that can be used on Android, iOS and Windows.  Note, this is quite advanced
+This is a C++ SDK that can be used on Android, iOS and Windows.  Note, this is quite advanced, so tread carefully!
+
 https://github.com/readium/readium-sdk
 
 At one point Kobo used this in some of our reading apps, and you can see our fork on github.com/kobolabs.  Ahh the good old days!
@@ -63,6 +68,8 @@ These are lower level components that can open and parse ePub files, but they ar
 
 A .NET library for reading EPUB files.  
 https://github.com/vers-one/EpubReader  
+
+At Kobo, we are big users of the .NET Platform in our backend systems, (amongst many other things)  You may want to checkout their Xamarin framework which allows you to build iOS and Android apps from the same code base!
 
 **EPubLib**
 
