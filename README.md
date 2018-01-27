@@ -1,8 +1,27 @@
 # Welcome Delta Hackers!
 
-In this GitHub repo you can find some insipiration for how you could make the world a better place for lovers of books.  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks
+In this GitHub repo you can find some resources that could help you make the world a better place for lovers of books.  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks
 
 If you're curious about the type of work done at Rakuten Kobo, you can peruse through our numerous open source projects, on https://github.com/kobolabs
+
+## Public APIs
+
+** Internet Archive **
+Get information about all kinds of freely available books
+
+https://openlibrary.org/developers/api
+
+** New York Times **
+
+Want to let everyone know what's on the New York Times best seller list? Check out their developer portal. You need to sign up for a key, and it may take an hour or so to get it.  Use this time to use their API explorer to see what data they have to offer!
+
+http://developer.nytimes.com/
+http://developer.nytimes.com/books_api.json#/README
+
+
+** TasteDive.com **
+
+This is a recommendations API that finds similar items 
 
 ## ePub Rendering Components
 
@@ -25,13 +44,22 @@ This is a node.js based component for viewing ePub files on the web.  It is dist
 
 Note that this will only work in the Google Chrome web browser. The source code for this component can be found here:
 
+https://github.com
+
+**Readium SDK**
+
+This is a C++ SDK that can be used on Android, iOS and Windows.  
+https://github.com/readium/readium-sdk
+
+At one point Kobo used this in some of our reading apps, and you can see our fork on github.com/kobolabs.  Ahh the good old days!
 
 ## ePub Reading Components
 
-These components can open and parse ePub files, but they aren't able to display them.  You can use these libraries to read (and sometimes write) ePub files.  You could use these libraries to build tools to author ePub files.  This is probably hard given the time, but if you're up for the challenge, see if you can impress us!
+These are lower level components that can open and parse ePub files, but they aren't able to display them.  You can use these libraries to read (and sometimes write) ePub files.  You could use these libraries to build tools to author ePub files.  This is probably hard given the time, but if you're up for the challenge, see if you can impress us!
 
 **EPubReader**
 
 A .NET library for reading EPUB files.  
 https://github.com/vers-one/EpubReader  
+
 
