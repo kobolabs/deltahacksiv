@@ -3,7 +3,7 @@
 
 # Welcome Delta Hackers!
 
-In this GitHub repo you can find some resources that could help you make the world a better place for lovers of books.  Build an app that allows users to trade physical books. Or one that lets book lovers connect. See if you can build a better reading app than Kobo's own! The only limit is your imagination!  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks
+In this GitHub repo you can find some resources that could help you make the world a better place for lovers of books.  Build an app that allows users to trade physical books. Or one that lets book lovers connect. See if you can build a better reading app than Kobo's own! The only limit is your imagination!  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks.  And don't stop with these.  If you can find others by all means go ahead!
 
 If you're curious about some of the things our developers are up to at Rakuten Kobo, you can peruse through our numerous open source projects, on https://github.com/kobolabs.  
 
