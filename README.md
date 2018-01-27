@@ -1,8 +1,9 @@
-<img align="left" src="Kobo400x400.jpg" width-" />
+
+<img align="left" src="Kobo400x400.jpg" width="200" height="200" style="margin:15px" />
 
 # Welcome Delta Hackers!
 
-In this GitHub repo you can find some resources that could help you make the world a better place for lovers of books.  Build an app that allows users to trade physical books. Or one let's book lovers to connect. See if you can build a better reading app than Kobo's own! The only limit is your imagination!  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks
+In this GitHub repo you can find some resources that could help you make the world a better place for lovers of books.  Build an app that allows users to trade physical books. Or one that lets book lovers connect. See if you can build a better reading app than Kobo's own! The only limit is your imagination!  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks
 
 If you're curious about some of the things our developers are up to at Rakuten Kobo, you can peruse through our numerous open source projects, on https://github.com/kobolabs.  
 
@@ -36,7 +37,9 @@ http://developer.nytimes.com/books_api.json#/README
 
 **TasteDive.com**
 
-This is a recommendations API that finds similar items to the ones you search for and provides relevant web links to wikipedia.
+This is a recommendations API that finds similar items to the ones you search for and provides relevant web links to wikipedia and youtube.  Maybe a mashup of this and the NYT
+
+In addition to book and digital content specific APIs, why not check out what major technology companies like Microsoft and Google have in their cloud offerings?  Perhaps they have some tools that could be used to enhance the reading experience.
 
 ## ePub Rendering Components
 
