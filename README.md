@@ -37,7 +37,7 @@ http://developer.nytimes.com/books_api.json#/README
 
 **TasteDive.com**
 
-This is a recommendations API that finds similar items to the ones you search for and provides relevant web links to wikipedia and youtube.  Maybe a mashup of this and the NYT
+This is a recommendations API that finds similar items to the ones you search for and provides relevant web links to wikipedia and youtube.  Maybe a mashup of this and the NYT APIs?
 
 In addition to book and digital content specific APIs, why not check out what major technology companies like Microsoft and Google have in their cloud offerings?  Perhaps they have some tools that could be used to enhance the reading experience.
 
