@@ -1,4 +1,4 @@
-![](Kobo400x400.jpg)
+<img align="left" src="Kobo400x400.jpg" style="heigh:200px;width:200px;margin:15px" />
 
 # Welcome Delta Hackers!
 
