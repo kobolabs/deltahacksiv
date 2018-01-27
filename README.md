@@ -1,8 +1,15 @@
 # Welcome Delta Hackers!
 
-In this GitHub repo you can find some resources that could help you make the world a better place for lovers of books.  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks
+In this GitHub repo you can find some resources that could help you make the world a better place for lovers of books.  Build a website that displays book information.  Build an app that allows users to trade physical books, or for book lovers to connect. See if you can build a finer reading app than Kobo's own! The only limit is your imagination!  We've compiled a list of openly available SDKs, Free and Open Source components and public APIs that are available for you to use for your hacks
+t
+If you're curious about some of the things our developers are up to at Rakuten Kobo, you can peruse through our numerous open source projects, on https://github.com/kobolabs.  Some interesting ones to look at:
 
-If you're curious about the type of work done at Rakuten Kobo, you can peruse through our numerous open source projects, on https://github.com/kobolabs
+Some open source components that are used in our Aura ONE eReader: https://github.com/kobolabs/Kobo-Reader
+The level of support Kobo has for the ePub Spec: https://github.com/kobolabs/epub-spec
+Metadata Quality standards for our Publishers: https://github.com/kobolabs/metadata-style-guide
+
+We've uploaded a handful of ePub 3 files, along with some relevant data.  You can find them in the eBooks folder in this repository.
+
 
 ## Public APIs
 
@@ -21,7 +28,7 @@ http://developer.nytimes.com/books_api.json#/README
 
 ** TasteDive.com **
 
-This is a recommendations API that finds similar items 
+This is a recommendations API that finds similar items to the ones you search for and provides relevant web links to wikipedia.
 
 ## ePub Rendering Components
 
